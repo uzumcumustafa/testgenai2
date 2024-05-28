@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Webchat Page</title>
+</head>
+<body>
+    <h1>Welcome to Our Webchat</h1>
+    <p>Interact with our chatbot below:</p>
+    <script
+        src="https://cdn.cai.tools.sap/webchat/webchat.js"
+        channelId="fb599ff3-b07a-4f67-bb3d-680b31faa5af"
+        token="22c202b153ab2423014ba78911b59a8b"
+        id="cai-webchat">
+    </script>
+</body>
+</html>
